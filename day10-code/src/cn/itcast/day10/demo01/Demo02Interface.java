@@ -6,5 +6,9 @@ public class Demo02Interface {
         a.methodAbs();
 
         a.methodDefault();
+
+        MyInterfaceDefaultB b = new MyInterfaceDefaultB();
+        b.methodAbs();
+        b.methodDefault();
     }
 }
