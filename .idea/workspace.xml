@@ -20,70 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b661cd4-8884-4da5-9365-b604e04eafd2" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo02/Demo01Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo02/MyAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo02/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo02/sub/MySon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo02/sub/Stranger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo03/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo03/Demo01InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo03/Demo02InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo03/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/MyOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/pic/01_input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/pic/02_open_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/pic/02_open_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/pic/03_money_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/pic/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/DemoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/SkillImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo08/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo08/MyRed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red/OpenMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red/RedPacketFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/day12-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo02Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo03Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/Demo01Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/Demo01Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/Demo02Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/Demo02Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/Demo03Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/Demo03Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/Demo05Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/Demo05Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceAbstractImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceAbstractImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceDefaultA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceDefaultA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceDefaultB.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceDefaultB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfacePrivateA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfacePrivateA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfacePrivateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfacePrivateImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo01/MyInterfaceStaticImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo01/MyInterfaceStaticImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/Demo01Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/Demo01Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/MyInterfaceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/MyInterfaceA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/MyInterfaceAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/MyInterfaceAbstract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/MyInterfaceB.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/MyInterfaceB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/MyInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/MyInterfaceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo02/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo02/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo03/Demo01Relations.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo03/Demo01Relations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo03/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo03/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo03/MyInterfaceA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo03/MyInterfaceA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo03/MyInterfaceB.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo03/MyInterfaceB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo03/MyInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo03/MyInterfaceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo04/Demo01Multi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo04/Demo01Multi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo04/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo04/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo04/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo04/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo05/Demo01MultiField.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo05/Demo01MultiField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo05/Demo02MultiMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo05/Demo02MultiMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo05/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo05/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo05/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo05/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo06/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo06/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo06/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo06/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo06/Demo01Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo06/Demo01Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo06/Demo02Instanceof.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo06/Demo02Instanceof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo06/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo06/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo07/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo07/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo07/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo07/DemoMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo07/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo07/Keyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo07/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo07/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day10-code/src/cn/itcast/day10/demo07/USB.java" beforeDir="false" afterPath="$PROJECT_DIR$/day10-code/src/cn/itcast/day11/demo07/USB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/Demo01Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/Demo01Final.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/MySubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day10/demo01/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo01/Zi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/MyOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/MyOuter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +74,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -125,15 +91,20 @@
       <recent name="cn.itcast.day10.demo03" />
       <recent name="cn.itcast.day10.demo02" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01" />
+      <recent name="$PROJECT_DIR$/day11-code" />
+      <recent name="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DemoMain (1)">
-    <configuration name="Demo01InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo03.Demo01InnerClass" />
+  <component name="RunManager" selected="Application.Bootstrap">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo08.Bootstrap" />
       <module name="day11-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day11.demo03.*" />
+          <option name="PATTERN" value="cn.itcast.day11.demo08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,55 +112,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo06.Demo01Main" />
-      <module name="day10-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.day11.demo06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo03.Demo02InnerClass" />
+    <configuration name="DemoGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo07.DemoGame" />
       <module name="day11-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.day11.demo03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo04.DemoMain" />
-      <module name="day11-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.day11.demo04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo07.DemoMain" />
-      <module name="day10-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.itcast.day11.demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo07.DemoInterface" />
+      <module name="day11-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day11.demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo05.DemoMain" />
+      <module name="day11-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day11.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo06.DemoMain" />
+      <module name="day11-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day11.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,21 +191,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01Main" />
-      <item itemvalue="Application.DemoMain" />
-      <item itemvalue="Application.Demo01InnerClass" />
-      <item itemvalue="Application.Demo02InnerClass" />
-      <item itemvalue="Application.DemoMain (1)" />
+      <item itemvalue="Application.DemoMain (2)" />
+      <item itemvalue="Application.DemoMain (3)" />
+      <item itemvalue="Application.DemoGame" />
+      <item itemvalue="Application.DemoInterface" />
+      <item itemvalue="Application.Bootstrap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoMain (1)" />
-        <item itemvalue="Application.Demo02InnerClass" />
-        <item itemvalue="Application.Demo01InnerClass" />
-        <item itemvalue="Application.DemoMain" />
-        <item itemvalue="Application.Demo01Main" />
+        <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="Application.DemoInterface" />
+        <item itemvalue="Application.DemoGame" />
+        <item itemvalue="Application.DemoMain (3)" />
+        <item itemvalue="Application.DemoMain (2)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -253,6 +236,11 @@
       <workItem from="1599731124222" duration="46000" />
       <workItem from="1599890868493" duration="3136000" />
       <workItem from="1599986699526" duration="3853000" />
+      <workItem from="1600252484090" duration="30000" />
+      <workItem from="1600352939498" duration="390000" />
+      <workItem from="1600437446390" duration="131000" />
+      <workItem from="1600437705115" duration="2982000" />
+      <workItem from="1600481653794" duration="4886000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1599582650426</created>
@@ -286,78 +274,101 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1599895933481">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="403" y="104" key="#Project_Structure" timestamp="1600615131504">
+      <screen x="0" y="23" width="1760" height="895" />
     </state>
+    <state x="403" y="104" key="#Project_Structure/0.23.1760.895@0.23.1760.895" timestamp="1600615131504" />
     <state x="440" y="94" key="#Project_Structure/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599895933481" />
-    <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1599989883430">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="633" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1600612930945">
+      <screen x="0" y="23" width="1760" height="883" />
     </state>
+    <state x="633" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1760.990@0.0.1760.990" timestamp="1600438864415" />
+    <state x="633" y="191" key="#com.intellij.ide.util.MemberChooser/0.23.1760.883@0.23.1760.883" timestamp="1600612930945" />
     <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599989883430" />
     <state x="2496" y="287" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722318061" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1599991609320">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1718" height="229" key="GridCell.Tab.0.bottom" timestamp="1600614600677">
+      <screen x="0" y="23" width="1760" height="880" />
     </state>
+    <state width="1718" height="274" key="GridCell.Tab.0.bottom/0.0.1760.990@0.0.1760.990" timestamp="1600444664985" />
+    <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
+    <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1599991609320">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1718" height="229" key="GridCell.Tab.0.center" timestamp="1600614600676">
+      <screen x="0" y="23" width="1760" height="880" />
     </state>
+    <state width="1718" height="274" key="GridCell.Tab.0.center/0.0.1760.990@0.0.1760.990" timestamp="1600444664981" />
+    <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
+    <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.883@0.23.1760.883" timestamp="1600614492168" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1599991609320">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1718" height="229" key="GridCell.Tab.0.left" timestamp="1600614600676">
+      <screen x="0" y="23" width="1760" height="880" />
     </state>
+    <state width="1718" height="274" key="GridCell.Tab.0.left/0.0.1760.990@0.0.1760.990" timestamp="1600444664980" />
+    <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
+    <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.883@0.23.1760.883" timestamp="1600614492167" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1599991609320">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1718" height="229" key="GridCell.Tab.0.right" timestamp="1600614600677">
+      <screen x="0" y="23" width="1760" height="880" />
     </state>
+    <state width="1718" height="274" key="GridCell.Tab.0.right/0.0.1760.990@0.0.1760.990" timestamp="1600444664983" />
+    <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
+    <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.right/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
     <state x="184" y="86" key="MergeDialog" timestamp="1599986765976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="MergeDialog/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599986765976" />
-    <state x="336" y="5" key="SettingsEditor" timestamp="1599730417786">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="308" y="27" key="SettingsEditor" timestamp="1600615126779">
+      <screen x="0" y="23" width="1760" height="895" />
     </state>
+    <state x="308" y="27" key="SettingsEditor/0.23.1760.895@0.23.1760.895" timestamp="1600615126779" />
     <state x="336" y="5" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599730417786" />
     <state x="2200" y="127" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599707595428" />
     <state x="418" y="284" key="Vcs.Push.Dialog.v2" timestamp="1599895956003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="284" key="Vcs.Push.Dialog.v2/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599895956003" />
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1600481664057">
+      <screen x="0" y="0" width="1760" height="990" />
+    </state>
+    <state x="536" y="329" key="com.intellij.ide.util.TipDialog/0.0.1760.990@0.0.1760.990" timestamp="1600481664057" />
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599986743127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599986743127" />
-    <state x="419" y="262" key="new project wizard" timestamp="1599730416150">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="188" y="57" key="new project wizard" timestamp="1600615124493">
+      <screen x="0" y="23" width="1760" height="895" />
     </state>
+    <state x="188" y="57" key="new project wizard/0.23.1760.895@0.23.1760.895" timestamp="1600615124493" />
     <state x="419" y="262" key="new project wizard/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599730416150" />
-    <state x="521" y="219" width="807" height="820" key="search.everywhere.popup" timestamp="1599728109333">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="478" y="208" width="740" height="781" key="search.everywhere.popup" timestamp="1600439570342">
+      <screen x="0" y="0" width="1760" height="990" />
     </state>
+    <state x="478" y="208" width="740" height="781" key="search.everywhere.popup/0.0.1760.990@0.0.1760.990" timestamp="1600439570342" />
     <state x="521" y="219" width="807" height="820" key="search.everywhere.popup/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599728109333" />
     <state x="2354" y="304" width="672" height="678" key="search.everywhere.popup/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599727560275" />
   </component>
