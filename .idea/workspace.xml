@@ -20,34 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b661cd4-8884-4da5-9365-b604e04eafd2" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/day11-code/pic/01_input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/pic/02_open_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/pic/02_open_2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/pic/03_money_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/pic/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo05/MyInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo06/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/DemoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/DemoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo07/SkillImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo08/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo08/MyRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red/OpenMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red/RedPacketFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/day12-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo02Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo03Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/MyOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/demo04/MyOuter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo02Equals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo03Objects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -97,7 +74,7 @@
       <recent name="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bootstrap">
+  <component name="RunManager" selected="Application.Demo01ToString">
     <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo08.Bootstrap" />
       <module name="day11-code" />
@@ -105,6 +82,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.itcast.day11.demo08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01ToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo01.Demo01ToString" />
+      <module name="day12-code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.day12.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,20 +124,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.itcast.day11.demo07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day11.demo05.DemoMain" />
-      <module name="day11-code" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.day11.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,33 +168,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DemoMain (2)" />
       <item itemvalue="Application.DemoMain (3)" />
       <item itemvalue="Application.DemoGame" />
       <item itemvalue="Application.DemoInterface" />
       <item itemvalue="Application.Bootstrap" />
+      <item itemvalue="Application.Demo01ToString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01ToString" />
         <item itemvalue="Application.Bootstrap" />
         <item itemvalue="Application.DemoInterface" />
         <item itemvalue="Application.DemoGame" />
         <item itemvalue="Application.DemoMain (3)" />
-        <item itemvalue="Application.DemoMain (2)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -281,13 +246,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
@@ -299,41 +263,46 @@
     </state>
     <state x="403" y="104" key="#Project_Structure/0.23.1760.895@0.23.1760.895" timestamp="1600615131504" />
     <state x="440" y="94" key="#Project_Structure/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599895933481" />
-    <state x="633" y="191" key="#com.intellij.ide.util.MemberChooser" timestamp="1600612930945">
-      <screen x="0" y="23" width="1760" height="883" />
+    <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1600742757271">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="633" y="188" key="#com.intellij.ide.util.MemberChooser/0.0.1760.990@0.0.1760.990" timestamp="1600438864415" />
+    <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600742757271" />
     <state x="633" y="191" key="#com.intellij.ide.util.MemberChooser/0.23.1760.883@0.23.1760.883" timestamp="1600612930945" />
     <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599989883430" />
     <state x="2496" y="287" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722318061" />
-    <state width="1718" height="229" key="GridCell.Tab.0.bottom" timestamp="1600614600677">
-      <screen x="0" y="23" width="1760" height="880" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1600745974375">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1718" height="274" key="GridCell.Tab.0.bottom/0.0.1760.990@0.0.1760.990" timestamp="1600444664985" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
     <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
     <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1718" height="229" key="GridCell.Tab.0.center" timestamp="1600614600676">
-      <screen x="0" y="23" width="1760" height="880" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1600745974375">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1718" height="274" key="GridCell.Tab.0.center/0.0.1760.990@0.0.1760.990" timestamp="1600444664981" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
     <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
     <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.883@0.23.1760.883" timestamp="1600614492168" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1718" height="229" key="GridCell.Tab.0.left" timestamp="1600614600676">
-      <screen x="0" y="23" width="1760" height="880" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1600745974375">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1718" height="274" key="GridCell.Tab.0.left/0.0.1760.990@0.0.1760.990" timestamp="1600444664980" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
     <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
     <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.883@0.23.1760.883" timestamp="1600614492167" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1718" height="229" key="GridCell.Tab.0.right" timestamp="1600614600677">
-      <screen x="0" y="23" width="1760" height="880" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1600745974375">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1718" height="274" key="GridCell.Tab.0.right/0.0.1760.990@0.0.1760.990" timestamp="1600444664983" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
     <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
     <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
@@ -342,9 +311,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="MergeDialog/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599986765976" />
-    <state x="308" y="27" key="SettingsEditor" timestamp="1600615126779">
-      <screen x="0" y="23" width="1760" height="895" />
+    <state x="336" y="5" key="SettingsEditor" timestamp="1600741319144">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="336" y="5" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600741319144" />
     <state x="308" y="27" key="SettingsEditor/0.23.1760.895@0.23.1760.895" timestamp="1600615126779" />
     <state x="336" y="5" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599730417786" />
     <state x="2200" y="127" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599707595428" />
