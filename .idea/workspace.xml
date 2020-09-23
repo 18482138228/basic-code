@@ -22,8 +22,6 @@
     <list default="true" id="7b661cd4-8884-4da5-9365-b604e04eafd2" name="Default" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo01ToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo02Equals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Demo03Objects.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo01/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -184,6 +182,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,6 +216,7 @@
       <workItem from="1600437446390" duration="131000" />
       <workItem from="1600437705115" duration="2982000" />
       <workItem from="1600481653794" duration="4886000" />
+      <workItem from="1600758614324" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1599582650426</created>
@@ -246,12 +257,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
@@ -311,11 +323,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="MergeDialog/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599986765976" />
-    <state x="336" y="5" key="SettingsEditor" timestamp="1600741319144">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="308" y="27" key="SettingsEditor" timestamp="1600873273434">
+      <screen x="0" y="23" width="1760" height="895" />
     </state>
     <state x="336" y="5" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600741319144" />
-    <state x="308" y="27" key="SettingsEditor/0.23.1760.895@0.23.1760.895" timestamp="1600615126779" />
+    <state x="308" y="27" key="SettingsEditor/0.23.1760.895@0.23.1760.895" timestamp="1600873273434" />
     <state x="336" y="5" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599730417786" />
     <state x="2200" y="127" key="SettingsEditor/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599707595428" />
     <state x="418" y="284" key="Vcs.Push.Dialog.v2" timestamp="1599895956003">
