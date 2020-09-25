@@ -1,5 +1,7 @@
 package cn.itcast.day12.demo01;
 
+import java.util.Objects;
+
 public class Person {
     private String name;
     private int age;
@@ -30,7 +32,37 @@ public class Person {
 
     @Override
     public String toString() {
-        //eturn "abc";
-        return "abc";
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
+//    @Override
+//    public boolean equals (Object obj){
+//        if(obj == null){
+//            return false;
+//        }
+//        if(obj instanceof Person){
+//            Person p = (Person) obj;
+//            boolean b = this.name.equals(p.name) && this.age == p.age;
+//            return b;
+//        }
+//        return false;
+
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Person person = (Person) o;
+        return age == person.age &&
+                Objects.equals(name, person.name);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(name, age);
     }
 }
