@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b661cd4-8884-4da5-9365-b604e04eafd2" name="Default" comment="1">
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo03/Demo01DateFormate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo03/Demo02Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo04/Demo01Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo04/Demo02Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo05/Demo01System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo06/Demo01StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo06/Demo02StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo06/Demo03StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo07/Demo01Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo06/Demo02StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/day12-code/src/cn/itcast/day12/demo06/Demo02StringBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +80,14 @@
       <recent name="$PROJECT_DIR$/day11-code/src/cn/itcast/day11/red" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo01StringBuilder">
-    <configuration name="Demo01Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo04.Demo01Calendar" />
+  <component name="RunManager" selected="Application.Demo01Integer">
+    <configuration name="Demo01Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo07.Demo01Integer" />
       <module name="day12-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day12.demo04.*" />
+          <option name="PATTERN" value="cn.itcast.day12.demo07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo04.Demo02Calendar" />
+    <configuration name="Demo02StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo06.Demo02StringBuilder" />
       <module name="day12-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day12.demo04.*" />
+          <option name="PATTERN" value="cn.itcast.day12.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,13 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo03.Demo02Test" />
+    <configuration name="Demo03StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.day12.demo06.Demo03StringBuilder" />
       <module name="day12-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.day12.demo03.*" />
+          <option name="PATTERN" value="cn.itcast.day12.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +153,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -193,23 +176,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo02Test" />
-      <item itemvalue="Application.Demo01Calendar" />
-      <item itemvalue="Application.Demo02Calendar" />
       <item itemvalue="Application.Demo01System" />
       <item itemvalue="Application.Demo01StringBuilder" />
+      <item itemvalue="Application.Demo02StringBuilder" />
+      <item itemvalue="Application.Demo03StringBuilder" />
+      <item itemvalue="Application.Demo01Integer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Integer" />
+        <item itemvalue="Application.Demo03StringBuilder" />
+        <item itemvalue="Application.Demo02StringBuilder" />
         <item itemvalue="Application.Demo01StringBuilder" />
         <item itemvalue="Application.Demo01System" />
-        <item itemvalue="Application.Demo02Calendar" />
-        <item itemvalue="Application.Demo01Calendar" />
-        <item itemvalue="Application.Demo02Test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -308,45 +291,45 @@
     <state x="633" y="191" key="#com.intellij.ide.util.MemberChooser/0.23.1760.883@0.23.1760.883" timestamp="1600612930945" />
     <state x="691" y="198" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599989883430" />
     <state x="2496" y="287" key="#com.intellij.ide.util.MemberChooser/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722318061" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601309080827">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1601350744611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601307377290" />
     <state width="1718" height="274" key="GridCell.Tab.0.bottom/0.0.1760.990@0.0.1760.990" timestamp="1600444664985" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601350744611" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1601309080827" />
     <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
     <state width="1718" height="229" key="GridCell.Tab.0.bottom/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601309080826">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1601350744611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601307377289" />
     <state width="1718" height="274" key="GridCell.Tab.0.center/0.0.1760.990@0.0.1760.990" timestamp="1600444664981" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601350744611" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1601309080826" />
     <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
     <state width="1718" height="229" key="GridCell.Tab.0.center/0.23.1760.883@0.23.1760.883" timestamp="1600614492168" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.center/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601309080826">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1601350744611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601307377288" />
     <state width="1718" height="274" key="GridCell.Tab.0.left/0.0.1760.990@0.0.1760.990" timestamp="1600444664980" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601350744611" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1601309080826" />
     <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.880@0.23.1760.880" timestamp="1600614600676" />
     <state width="1718" height="229" key="GridCell.Tab.0.left/0.23.1760.883@0.23.1760.883" timestamp="1600614492167" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599991609320" />
     <state width="1340" height="206" key="GridCell.Tab.0.left/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599722446730" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601309080827">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1601350744611">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601307377289" />
     <state width="1718" height="274" key="GridCell.Tab.0.right/0.0.1760.990@0.0.1760.990" timestamp="1600444664983" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600745974375" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601350744611" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1601309080827" />
     <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.880@0.23.1760.880" timestamp="1600614600677" />
     <state width="1718" height="229" key="GridCell.Tab.0.right/0.23.1760.883@0.23.1760.883" timestamp="1600614492169" />
@@ -382,10 +365,11 @@
     <state x="154" y="34" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1601220299487" />
     <state x="188" y="57" key="new project wizard/0.23.1760.895@0.23.1760.895" timestamp="1600615124493" />
     <state x="419" y="262" key="new project wizard/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599730416150" />
-    <state x="478" y="208" width="740" height="781" key="search.everywhere.popup" timestamp="1600439570342">
-      <screen x="0" y="0" width="1760" height="990" />
+    <state x="521" y="219" width="808" height="821" key="search.everywhere.popup" timestamp="1601350219131">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="478" y="208" width="740" height="781" key="search.everywhere.popup/0.0.1760.990@0.0.1760.990" timestamp="1600439570342" />
+    <state x="521" y="219" width="808" height="821" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601350219131" />
     <state x="521" y="219" width="807" height="820" key="search.everywhere.popup/1920.123.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1599728109333" />
     <state x="2354" y="304" width="672" height="678" key="search.everywhere.popup/1920.123.1600.860/0.0.1920.1040@1920.123.1600.860" timestamp="1599727560275" />
   </component>
